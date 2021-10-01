@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cc-react-ass7-HackerStories-/static/css/main.a617e044.chunk.css",
+    "main.js": "/cc-react-ass7-HackerStories-/static/js/main.1c89eb6a.chunk.js",
+    "main.js.map": "/cc-react-ass7-HackerStories-/static/js/main.1c89eb6a.chunk.js.map",
+    "runtime-main.js": "/cc-react-ass7-HackerStories-/static/js/runtime-main.baa66c22.js",
+    "runtime-main.js.map": "/cc-react-ass7-HackerStories-/static/js/runtime-main.baa66c22.js.map",
+    "static/js/2.9fc001a8.chunk.js": "/cc-react-ass7-HackerStories-/static/js/2.9fc001a8.chunk.js",
+    "static/js/2.9fc001a8.chunk.js.map": "/cc-react-ass7-HackerStories-/static/js/2.9fc001a8.chunk.js.map",
+    "static/js/3.6e17998f.chunk.js": "/cc-react-ass7-HackerStories-/static/js/3.6e17998f.chunk.js",
+    "static/js/3.6e17998f.chunk.js.map": "/cc-react-ass7-HackerStories-/static/js/3.6e17998f.chunk.js.map",
+    "index.html": "/cc-react-ass7-HackerStories-/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/cc-react-ass7-HackerStories-/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.9fc001a8.chunk.js.LICENSE.txt": "/cc-react-ass7-HackerStories-/static/js/2.9fc001a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.baa66c22.js",
+    "static/js/2.9fc001a8.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.1c89eb6a.chunk.js"
+  ]
+}
